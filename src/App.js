@@ -10,9 +10,9 @@ function App() {
           channel="pbb"
           description="Yeee it's works"
           song="React Is rocking right now boom boom"
-          likes="123"
-          messages="456"
-          shares="986"
+          likes={123}
+          messages={456}
+          shares={986}
         />
         <Video />
       </div>
